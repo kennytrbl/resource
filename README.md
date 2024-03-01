@@ -8,7 +8,7 @@
 [A Complete Guide to Flexbox - CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 [Developer Roadmaps - roadmap.sh](https://roadmap.sh/)
-- a community project called roadmap.sh aims to produce guidelines, roadmaps, and other instructional materials to assist developers in choosing a course of action and directing their learning
+- a community project that aims to produce guidelines, roadmaps, and other instructional materials to assist developers in choosing a course of action and directing their learning
 
 [Devhints - TL;DR for developer documentation](https://devhints.io/)
 
