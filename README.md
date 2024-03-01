@@ -41,3 +41,11 @@
 [Tech Interview Handbook: Technical Interview Guide for Busy Engineers](https://www.techinterviewhandbook.org/)
 
 [Wellfound (formerly AngelList Talent) - Startup Job Search](https://wellfound.com/)
+
+## source code editors
+[Notepad++](https://notepad-plus-plus.org/)
+
+[Replit](https://replit.com/)
+- online code editor
+
+[Visual Studio Code](https://code.visualstudio.com/)
