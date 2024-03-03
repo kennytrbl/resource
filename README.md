@@ -1,5 +1,13 @@
 # resource
 
+[cheat sheets](https://github.com/kennytrbl/resource#cheat-sheets)
+
+[job seeking](https://github.com/kennytrbl/resource#job-seeking)
+
+[source code editors](https://github.com/kennytrbl/resource#source-code-editors)
+
+[style guides](https://github.com/kennytrbl/resource#style-guides)
+
 ## cheat sheets
 [Code Nation Intro to Web Dev Reference Table](https://docs.google.com/document/d/17leZ9FuNE2PPSTsxGXhfgInT0DgNByN6NyeeUbaSaVg)
 
@@ -49,3 +57,14 @@
 - online code editor
 
 [Visual Studio Code](https://code.visualstudio.com/)
+
+## style guides
+[C++ Coding Guidelines](https://clearwater.readthedocs.io/en/stable/Clearwater_CPP_Coding_Guidelines.html)
+
+[Google Style Guides](https://google.github.io/styleguide/)
+
+[PEP 8 - Style Guide for Python Code](https://peps.python.org/pep-0008/)
+
+[Ruby Coding Guidelines](https://clearwater.readthedocs.io/en/stable/Clearwater_Ruby_Coding_Guidelines.html)
+
+[Scala Style Guide](https://docs.scala-lang.org/style/)
