@@ -4,6 +4,8 @@
 
 [job seeking](https://github.com/kennytrbl/resource#job-seeking)
 
+[learn](https://github.com/kennytrbl/resource#learn)
+
 [source code editors](https://github.com/kennytrbl/resource#source-code-editors)
 
 [style guides](https://github.com/kennytrbl/resource#style-guides)
@@ -14,6 +16,8 @@
 [CSS Cheat Sheet](https://courses.cs.washington.edu/courses/cse154/15sp/cheat-sheets/css-cheat-sheet.pdf)
 
 [A Complete Guide to Flexbox - CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+[Cheatsheets | Codecademy](https://www.codecademy.com/resources/cheatsheets/all)
 
 [Developer Roadmaps - roadmap.sh](https://roadmap.sh/)
 - a community project that aims to produce guidelines, roadmaps, and other instructional materials to assist developers in choosing a course of action and directing their learning
@@ -49,6 +53,24 @@
 [Tech Interview Handbook: Technical Interview Guide for Busy Engineers](https://www.techinterviewhandbook.org/)
 
 [Wellfound (formerly AngelList Talent) - Startup Job Search](https://wellfound.com/)
+
+## learn
+[Learn C++](https://www.learncpp.com/)
+
+[Codeacademy](https://www.codecademy.com/catalog)
+- most courses are offered at no cost. For additional resources from Codeacademy, click 'Resources' from the top navigation bar
+
+[CodingBat](https://codingbat.com/java)
+- coding practice for languages Java and Python
+
+[CS50's Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai)
+- official Harvard course with full lectures and projects
+
+[The #1 JavaScript Tutorial for Beginners // Edabit](https://edabit.com/tutorial/javascript)
+
+[Free Online Programming Courses | Educative](https://www.educative.io/explore/free)
+
+[The Beginner's Guide to React | egghead.io](https://egghead.io/courses/the-beginner-s-guide-to-react)
 
 ## source code editors
 [Notepad++](https://notepad-plus-plus.org/)
