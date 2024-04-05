@@ -72,6 +72,18 @@
 
 [The Beginner's Guide to React | egghead.io](https://egghead.io/courses/the-beginner-s-guide-to-react)
 
+[Eloquent JavaScript](https://eloquentjavascript.net/)
+- online Javascript textbook
+
+[Exercism](https://exercism.org/)
+- exercises for various programming languages
+
+[Flexbox Froggy - A game for learning CSS flexbox](https://flexboxfroggy.com/)
+
+[Learn to code at home | freeCodeCamp.org](https://www.freecodecamp.org/)
+- a very lengthy course that might take at least a year to finish
+- here is their [YouTube channel](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) where they instruct both computer science and mathematics
+
 ## source code editors
 [Notepad++](https://notepad-plus-plus.org/)
 
