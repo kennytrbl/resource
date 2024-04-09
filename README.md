@@ -84,6 +84,28 @@
 - a very lengthy course that might take at least a year to finish
 - here is their [YouTube channel](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) where they instruct both computer science and mathematics
 
+[Learn Python](https://www.learnpython.org/)
+
+[Learn Python | Computer Science Circles](https://cscircles.cemc.uwaterloo.ca/)
+
+[MIT OpenCourseWare | Free Online Course Materials](https://ocw.mit.edu/search/?d=Electrical%20Engineering%20and%20Computer%20Science&s=department_course_numbers.sort_coursenum)
+- official MIT courses with full lectures, slides, and assignments
+
+[Python for Everybody](https://books.trinket.io/pfe/index.html)
+
+[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+- an MIT course on command line skills, version control, and much more
+
+[Your Career in Web Development Starts Here | The Odin Project](https://www.theodinproject.com/)
+- open source, beginner-friendly foundations course that leads to two learning paths: Full Stack Ruby on Rails or Full Stack Javascript
+
+[ProjectLearn | Learn to Code by Creating Projects](https://projectlearn.io/)
+
+[VisuAlgo - visualizing data structures and algorithms through animation](https://visualgo.net/en)
+
+[W3Schools Online Web Tutorials](https://www.w3schools.com/)
+- tutorials in many languages with exercises and quizzes
+
 ## source code editors
 [Notepad++](https://notepad-plus-plus.org/)
 
