@@ -17,7 +17,7 @@
 
 [A Complete Guide to Flexbox - CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
-[Cheatsheets | Codecademy](https://www.codecademy.com/resources/cheatsheets/all)
+[Cheatsheets - Codecademy](https://www.codecademy.com/resources/cheatsheets/all)
 
 [Developer Roadmaps - roadmap.sh](https://roadmap.sh/)
 - a community project that aims to produce guidelines, roadmaps, and other instructional materials to assist developers in choosing a course of action and directing their learning
@@ -68,9 +68,9 @@
 
 [The #1 JavaScript Tutorial for Beginners // Edabit](https://edabit.com/tutorial/javascript)
 
-[Free Online Programming Courses | Educative](https://www.educative.io/explore/free)
+[Free Online Programming Courses - Educative](https://www.educative.io/explore/free)
 
-[The Beginner's Guide to React | egghead.io](https://egghead.io/courses/the-beginner-s-guide-to-react)
+[The Beginner's Guide to React - egghead.io](https://egghead.io/courses/the-beginner-s-guide-to-react)
 
 [Eloquent JavaScript](https://eloquentjavascript.net/)
 - online Javascript textbook
@@ -86,7 +86,7 @@
 
 [Learn Python](https://www.learnpython.org/)
 
-[Learn Python | Computer Science Circles](https://cscircles.cemc.uwaterloo.ca/)
+[Learn Python - Computer Science Circles](https://cscircles.cemc.uwaterloo.ca/)
 
 [MIT OpenCourseWare | Free Online Course Materials](https://ocw.mit.edu/search/?d=Electrical%20Engineering%20and%20Computer%20Science&s=department_course_numbers.sort_coursenum)
 - official MIT courses with full lectures, slides, and assignments
@@ -99,7 +99,7 @@
 [Your Career in Web Development Starts Here | The Odin Project](https://www.theodinproject.com/)
 - open source, beginner-friendly foundations course that leads to two learning paths: Full Stack Ruby on Rails or Full Stack Javascript
 
-[ProjectLearn | Learn to Code by Creating Projects](https://projectlearn.io/)
+[ProjectLearn - Learn to Code by Creating Projects](https://projectlearn.io/)
 
 [VisuAlgo - visualizing data structures and algorithms through animation](https://visualgo.net/en)
 
