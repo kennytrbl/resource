@@ -1,17 +1,5 @@
 # resource
 
-[cheat sheets](https://github.com/kennytrbl/resource#cheat-sheets)
-
-[job seeking](https://github.com/kennytrbl/resource#job-seeking)
-
-[learn](https://github.com/kennytrbl/resource#learn)
-
-[misc](https://github.com/kennytrbl/resource#misc)
-
-[source code editors](https://github.com/kennytrbl/resource#source-code-editors)
-
-[style guides](https://github.com/kennytrbl/resource#style-guides)
-
 ## cheat sheets
 [Code Nation Intro to Web Dev Reference Table](https://docs.google.com/document/d/17leZ9FuNE2PPSTsxGXhfgInT0DgNByN6NyeeUbaSaVg)
 
@@ -29,8 +17,6 @@
 [OverAPI.com - Collecting all the cheat sheets](https://overapi.com/)
 
 [Python Basics - Python Cheatsheet](https://www.pythoncheatsheet.org/cheatsheet/basics)
-
-[⬆️ Back to top](https://kennytrbl.github.io/resource/)
 
 ## job seeking
 [50 Most Common Interview Questions  Glassdoor Blog](https://www.glassdoor.com/blog/common-interview-questions/)
@@ -112,8 +98,6 @@
 [W3Schools Online Web Tutorials](https://www.w3schools.com/)
 - tutorials in many languages with exercises and quizzes
 
-[⬆️ Back to top](https://kennytrbl.github.io/resource/)
-
 ## misc
 [Carbon - Create and share beautiful images of your source code](https://carbon.now.sh/)
 
@@ -126,8 +110,6 @@
 [Responsively App](https://responsively.app/)
 - open source tool to view your website from numerous devices
 
-[⬆️ Back to top](https://kennytrbl.github.io/resource/)
-
 ## source code editors
 [Notepad++](https://notepad-plus-plus.org/)
 
@@ -135,8 +117,6 @@
 - online code editor
 
 [Visual Studio Code](https://code.visualstudio.com/)
-
-[⬆️ Back to top](https://kennytrbl.github.io/resource/)
 
 ## style guides
 [C++ Coding Guidelines](https://clearwater.readthedocs.io/en/stable/Clearwater_CPP_Coding_Guidelines.html)
@@ -148,5 +128,3 @@
 [Ruby Coding Guidelines](https://clearwater.readthedocs.io/en/stable/Clearwater_Ruby_Coding_Guidelines.html)
 
 [Scala Style Guide](https://docs.scala-lang.org/style/)
-
-[⬆️ Back to top](https://kennytrbl.github.io/resource/)
