@@ -6,6 +6,8 @@
 
 [learn](https://github.com/kennytrbl/resource#learn)
 
+[misc](https://github.com/kennytrbl/resource#misc)
+
 [source code editors](https://github.com/kennytrbl/resource#source-code-editors)
 
 [style guides](https://github.com/kennytrbl/resource#style-guides)
@@ -27,6 +29,8 @@
 [OverAPI.com - Collecting all the cheat sheets](https://overapi.com/)
 
 [Python Basics - Python Cheatsheet](https://www.pythoncheatsheet.org/cheatsheet/basics)
+
+[⬆️ Back to top](https://kennytrbl.github.io/resource/)
 
 ## job seeking
 [50 Most Common Interview Questions  Glassdoor Blog](https://www.glassdoor.com/blog/common-interview-questions/)
@@ -53,6 +57,8 @@
 [Tech Interview Handbook: Technical Interview Guide for Busy Engineers](https://www.techinterviewhandbook.org/)
 
 [Wellfound (formerly AngelList Talent) - Startup Job Search](https://wellfound.com/)
+
+[⬆️ Back to top](https://kennytrbl.github.io/resource/)
 
 ## learn
 [Learn C++](https://www.learncpp.com/)
@@ -106,6 +112,22 @@
 [W3Schools Online Web Tutorials](https://www.w3schools.com/)
 - tutorials in many languages with exercises and quizzes
 
+[⬆️ Back to top](https://kennytrbl.github.io/resource/)
+
+## misc
+[Carbon - Create and share beautiful images of your source code](https://carbon.now.sh/)
+
+[SmallDev.tools](https://smalldev.tools/)
+- collection of developer tools
+
+[Free for developers](https://free-for.dev/#/)
+- collection of free resources
+
+[Responsively App](https://responsively.app/)
+- open source tool to view your website from numerous devices
+
+[⬆️ Back to top](https://kennytrbl.github.io/resource/)
+
 ## source code editors
 [Notepad++](https://notepad-plus-plus.org/)
 
@@ -113,6 +135,8 @@
 - online code editor
 
 [Visual Studio Code](https://code.visualstudio.com/)
+
+[⬆️ Back to top](https://kennytrbl.github.io/resource/)
 
 ## style guides
 [C++ Coding Guidelines](https://clearwater.readthedocs.io/en/stable/Clearwater_CPP_Coding_Guidelines.html)
@@ -124,3 +148,5 @@
 [Ruby Coding Guidelines](https://clearwater.readthedocs.io/en/stable/Clearwater_Ruby_Coding_Guidelines.html)
 
 [Scala Style Guide](https://docs.scala-lang.org/style/)
+
+[⬆️ Back to top](https://kennytrbl.github.io/resource/)
